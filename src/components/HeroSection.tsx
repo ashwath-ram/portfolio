@@ -33,7 +33,7 @@ const HeroSection = () => {
           transition={{ delay: 0.6 }}
           className="text-xl md:text-2xl text-muted-foreground font-mono mb-2"
         >
-          Senior Python Developer<span className="terminal-cursor" />
+          Senior Software Engineer<span className="terminal-cursor" />
         </motion.p>
 
         <motion.p

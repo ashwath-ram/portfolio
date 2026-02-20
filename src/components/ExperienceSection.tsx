@@ -7,19 +7,22 @@ const experiences = [
     role: "Senior Python Developer",
     period: "July 2025 – Present",
     bullets: [
+      "Collaborated with stakeholders on strategic project planning and technical roadmapping for cloud migrations and RPA initiatives, ensuring alignment with business goals",
       "Orchestrated enterprise workflow automation via Autosys, developing self-healing scripts for job monitoring and failure recovery.",
       "Developed RPA solutions using Python to reduce manual effort and improve process efficiency.",
       "Integrated Microsoft Graph API with Django for secure authentication and automated email handling.",
-      "Executed server migration from DigitalOcean to Hetzner, optimizing costs and enhancing uptime across Spring Boot, FastAPI, Django, and GitLab.",
+      "Server migration of Projects from DigitalOcean to Hetzner for cost reduction. Executed a seamless infrastructure migration from DigitalOcean to Hetzner for a diverse tech stack (Spring Boot, FastAPI, Django, Gitlab), optimizing server costs and enhancing uptime",
       "Led application lifecycle management including monitoring, performance optimization, and scalable architecture enhancements.",
     ],
   },
   {
     company: "Tecnospice Technologies Pvt Ltd",
     location: "Tamil Nadu, India",
-    role: "Senior Python Developer",
+    role: "Senior Software Engineer",
     period: "June 2024 – April 2025",
     bullets: [
+      "Partnered with product teams for feature strategy decisions. Drove feature design leveraging strong domain knowledge.",
+      "Translated business requirements into scalable technical solutions. Owned technical direction for key product features.",
       "Accelerated application performance by 40% by refactoring legacy Django codebase and introducing multithreading.",
       "Architected a multi-tenant backend system with dynamic database routing for scalable client onboarding.",
       "Automated enterprise report delivery using Celery and SQL stored procedures, reducing processing time by 40%.",
@@ -31,6 +34,8 @@ const experiences = [
     role: "Python Backend Developer",
     period: "April 2023 – May 2024",
     bullets: [
+      "Contributed to the development and enhancement of a SaaS-based HIMS and EHR platform serving multi-specialty healthcare providers.",
+      "Advised stakeholders with domain-driven technical insights.",
       "Automated financial workflows via Tally integration, reducing manual reconciliation effort by 60%.",
       "Cut deployment times in half with Jenkins-driven CI/CD pipelines.",
       "Translated complex business requirements into modular, scalable backend components.",
@@ -39,7 +44,7 @@ const experiences = [
   {
     company: "Tecnospice Technologies Pvt Ltd",
     location: "Tamil Nadu, India",
-    role: "Junior Python Developer",
+    role: "Junior Backend Developer",
     period: "March 2022 – March 2023",
     bullets: [
       "Delivered 50+ scalable RESTful APIs using Django and DRF.",
